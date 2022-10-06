@@ -1,8 +1,8 @@
 @font-face {
-    font-family: 'Siemens Sans Bold';
+    font-family: 'SE_Sans_Bold';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 700;
     font-display: swap;
-    src: url('https://siemensenergyag.sharepoint.com/teams/M_SESACOperationsTeam/Shared%20Documents/SiemensSansBold/SiemensSans_Prof_Bold.ttf') format ('truetype');
+    src: url(https://CustFonts.github.io/SE_SANS_BOLD/SiemensSans_Prof_Bold.ttf) format ('truetype');
          
 }
